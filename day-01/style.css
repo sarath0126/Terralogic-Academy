@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#heading{
+    margin-left:5rem;
+    margin-top: 10px;
+    padding: 12px 24px;
+    color:  rgb(46, 46, 131);
+    font-weight: 700;
+}
+
+#links{
+    margin-left: 5rem;
+}
+
+
+hr{
+    margin-left: 4.5rem;
+    width: 90%;
+    border: solid 1px gray;
+}
+h2{
+    color: black;
+}
+.mail{
+    color: rgb(9, 9, 93);
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+
+.linkedin{
+    color: rgb(9, 9, 93);
+    margin-right: 2rem;
+    text-decoration: none;
+}
+
+.git{
+     color: rgb(9, 9, 93);
+    margin-right: 1.5rem;
+    text-decoration: none;
+}
+
+.para{
+    margin-left: 5rem;
+    padding:0.75rem;
+}
+
+.domains>h2{
+     margin-left:5rem;
+     margin-top: 2rem;
+     border: 2px solid black;
+     padding: 8px;
+     background-color:grey;
+     width: 90%;
+     border-radius: 8px;
+     -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+     -ms-border-radius: 8px;
+     -o-border-radius: 8px;
+}
+
+.domains>ul{
+    margin-left: 6.5rem;
+    margin-top: 12px;
+}
+
+.skills>h2{
+     margin-left:5rem;
+     margin-top: 2rem;
+     border: 2px solid black;
+     padding: 8px;
+     background-color:grey;
+     width: 90%;
+     border-radius:8px ;
+     -webkit-border-radius:8px ;
+     -moz-border-radius:8px ;
+     -ms-border-radius:8px ;
+     -o-border-radius:8px ;
+}
+
+.skills>ul{
+    margin-left: 6.5rem;
+    margin-top: 12px;
+}
+
+
+.projects>h2{
+     margin-left:5rem;
+     margin-top: 2rem;
+     border: 2px solid black;
+     padding: 8px;
+     background-color:grey;
+     width: 90%;
+     border-radius:8px ;
+     -webkit-border-radius:8px ;
+     -moz-border-radius:8px ;
+     -ms-border-radius:8px ;
+     -o-border-radius:8px ;
+}
+
+.project_1>h4{
+     margin-left: 5rem;
+     margin-top: 10px;
+}
+
+.project_1>ul>li{
+    margin-top: 1rem;
+    margin-right: 25px;
+    margin-left: 5.7rem;
+}
+
+
+.project_2>h4{
+    margin-left: 5rem;
+     margin-top: 18px;
+}
+
+.project_2>ul>li{
+     margin-top: 1rem;
+    margin-left: 5.7rem;
+}
+
+.certifications>h2{
+     margin-left:5rem;
+     margin-top: 2rem;
+     border: 2px solid black;
+     padding: 8px;
+     background-color:grey;
+     width: 90%;
+     border-radius:8px ;
+     -webkit-border-radius:8px ;
+     -moz-border-radius:8px ;
+     -ms-border-radius:8px ;
+     -o-border-radius:8px ;
+}
+
+.certifications>ul>li{
+    margin-left: 6.5rem;
+    margin-top: 12px;
+}
+
+.certifications>ul>p{
+    margin-left: 6.5rem;
+    margin-top: 12px;
+}
+
+.education>h2{
+     margin-left:5rem;
+     margin-top: 2rem;
+     border: 2px solid black;
+     padding: 8px;
+     background-color:grey;
+     width: 90%;
+     border-radius:8px ;
+     -webkit-border-radius:8px ;
+     -moz-border-radius:8px ;
+     -ms-border-radius:8px ;
+     -o-border-radius:8px ;
+}
+
+.edu_1{
+   margin-left: 5rem;
+}
+
+.edu_2{
+     margin-left: 5rem;
+    margin-top: 12px;
+}
+
+.languages>h2{
+     margin-left:5rem;
+     margin-top: 2rem;
+     border: 2px solid black;
+     padding: 8px;
+     background-color:grey;
+     width: 90%;
+     border-radius: 8px;
+     -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+     -ms-border-radius: 8px;
+     -o-border-radius: 8px;
+}
+
+.languages>p{
+  margin-left: 5rem;
+  margin-top: 2px;
+  margin-bottom: 1rem;
+}
