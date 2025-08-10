@@ -1,0 +1,45 @@
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+    gap: 5rem;
+    padding: 50px;
+    background: white;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    border: 4px solid rgb(176, 34, 34);
+}
+
+.gridItem{
+    background-color: #5909c8;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 5rem;
+    -webkit-border-radius: 5rem;
+    -moz-border-radius: 5rem;
+    -ms-border-radius: 5rem;
+    -o-border-radius: 5rem;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    -webkit-transition: transform 0.2s ease;
+    -moz-transition: transform 0.2s ease;
+    -ms-transition: transform 0.2s ease;
+    -o-transition: transform 0.2s ease;
+}
+
+
+.gridItem:hover{
+   color: beige;
+   background: #590525;
+   transform: scale(1.05);
+   -webkit-transform: scale(1.05);
+   -moz-transform: scale(1.05);
+   -ms-transform: scale(1.05);
+   -o-transform: scale(1.05);
+}
